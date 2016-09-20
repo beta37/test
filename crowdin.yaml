@@ -1,0 +1,7 @@
+files:
+  - 
+    source: '*.txt'
+    translation: '%original_file_name%'
+  - 
+    source: '*.md'
+    translation: '%original_file_name%'
