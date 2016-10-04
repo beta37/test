@@ -1,4 +1,7 @@
 files:
   - 
-    source: '*'
+    source: contributors.txt
+    translation: '%original_file_name%'
+  - 
+    source: README.md
     translation: '%original_file_name%'
