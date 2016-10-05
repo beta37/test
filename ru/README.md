@@ -2,18 +2,18 @@
 
 Этот документ обычно документ все необходимые меры, чтобы получить приложение и работает.
 
-### What is this repository for?
+### Что это за репозиторий?
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Краткое резюме
+* Версия
+* [Узнать Уценке](https://bitbucket.org/tutorials/markdowndemo)
 
-### How do I get set up?
+### Как мне настроить?
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
+* Резюме настройка
+* Конфигурации
+* Зависимостей
+* Конфигурация базы данных
 * How to run tests
 * Deployment instructions
 
