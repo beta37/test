@@ -1,19 +1,19 @@
-# ФАЙЛ README
+# README
 
-Этот документ обычно документ все необходимые меры, чтобы получить приложение и работает.
+This README would normally document whatever steps are necessary to get your application up and running.
 
-### Что это за репозиторий?
+### What is this repository for?
 
-* Краткое резюме
-* Версия
-* [Узнать Уценке](https://bitbucket.org/tutorials/markdowndemo)
+* Quick summary
+* Version
+* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
-### Как мне настроить?
+### How do I get set up?
 
-* Резюме настройка
-* Конфигурации
-* Зависимостей
-* Конфигурация базы данных
+* Summary of set up
+* Configuration
+* Dependencies
+* Database configuration
 * How to run tests
 * Deployment instructions
 
