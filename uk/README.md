@@ -1,29 +1,29 @@
 # README
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Цей документ зазвичай документ всі необхідні заходи, щоб отримати програму та працює.
 
-### What is this repository for?
+### Що це за репозиторій?
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Коротке резюме
+* Версія
+* [Дізнатися Уцінці](https://bitbucket.org/tutorials/markdowndemo)
 
-### How do I get set up?
+### Як мені налаштувати?
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* Резюме налаштування
+* Конфігурації
+* Залежностей
+* Конфігурація бази даних
+* Як запустити тести
+* Інструкції щодо розгортання
 
-### Contribution guidelines
+### Вказівки по складанню
 
-* Writing tests
-* Code review
-* Other guidelines
+* Написання тестів
+* Коментар код
+* Інші керівні принципи
 
-### Who do I talk to?
+### З ким мені поговорити?
 
-* Repo owner or admin
-* Other community or team contact
+* Власник РЕПО або адмін
+* Інші спільноти або групи контактів
