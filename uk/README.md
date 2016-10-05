@@ -1,6 +1,6 @@
-# README
+# ФАЙЛ README
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Этот документ обычно документ все необходимые меры, чтобы получить приложение и работает.
 
 ### What is this repository for?
 
