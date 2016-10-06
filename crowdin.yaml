@@ -1,7 +1,7 @@
 files:
   - 
-    source: contributors.txt
+    source: /contributors.txt
     translation: '%original_file_name%'
   - 
-    source: README.md
+    source: /README.md
     translation: '%original_file_name%'
