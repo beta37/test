@@ -1,29 +1,29 @@
-# README
+# crwdns775730:0crwdne775730:0
 
-This README would normally document whatever steps are necessary to get your application up and running.
+crwdns775731:0crwdne775731:0
 
-### What is this repository for?
+### crwdns775732:0crwdne775732:0
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* crwdns775733:0crwdne775733:0
+* crwdns775734:0crwdne775734:0
+* [crwdns775736:0crwdne775736:0](crwdns775735:0crwdne775735:0)
 
-### How do I get set up?
+### crwdns775737:0crwdne775737:0
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* crwdns775738:0crwdne775738:0
+* crwdns775739:0crwdne775739:0
+* crwdns775740:0crwdne775740:0
+* crwdns775741:0crwdne775741:0
+* crwdns775742:0crwdne775742:0
+* crwdns775743:0crwdne775743:0
 
-### Contribution guidelines
+### crwdns775744:0crwdne775744:0
 
-* Writing tests
-* Code review
-* Other guidelines
+* crwdns775745:0crwdne775745:0
+* crwdns775746:0crwdne775746:0
+* crwdns775747:0crwdne775747:0
 
-### Who do I talk to?
+### crwdns775748:0crwdne775748:0
 
-* Repo owner or admin
-* Other community or team contact
+* crwdns775749:0crwdne775749:0
+* crwdns775750:0crwdne775750:0
