@@ -5,3 +5,7 @@ files:
   - 
     source: README.md
     translation: '%original_file_name%'
+  - 
+    source: '/*.csv'
+    translation: '%original_file_name%'
+    multilingual_spreadsheet: "1"
