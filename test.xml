@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<forum>
+	<thread t_id="1">
+		<item item_id="1">
+			<title><![CDATA[Hello world]]></title>
+			<author><![CDATA[David]]></author>
+			<description type="text/html" ><![CDATA[This is my first post.]]></description>
+		</item>
+		<item item_id="2">
+			<title><![CDATA[Re: Hello world]]></title>
+			<author><![CDATA[Sarah]]></author>
+			<description type="text/html"><![CDATA[
+			Hi <b>David</b>, Welcome to our forum! <br />
+			We would like to refer you to our <a href="http://example.com/terms">terms and conditions</a><br />
+			Please follow those guidelines:<br />
+			<ol>
+				<li>Always be polite.</li>
+				<li>Be patient.</li>
+			</ol>
+			]]></description>
+		</item>
+	</thread>
+</forum>

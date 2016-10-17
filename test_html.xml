@@ -1,0 +1,131 @@
+<?xml version="1.0"?&>
+<div translate="no" class="web-xml-tag-title">Item Name</div>
+<div class="web-xml-content">
+  <div translate="no" class="web-xml-tag-title"></div>
+  <div xpath="/item/text()[1]">
+  </div>
+  <div translate="no" class="web-xml-tag-title">Title</div>
+  <div class="web-xml-content">
+    <div translate="no" class="web-xml-tag-title"></div>
+    <div xpath="/item/title/text()">My super page (title)</div>
+  </div>
+  <div translate="no" class="web-xml-tag-title"></div>
+  <div xpath="/item/text()[2]">
+  </div>
+  <div translate="no" class="web-xml-tag-title">Meta</div>
+  <div class="web-xml-content">
+    <div translate="no" class="web-xml-tag-title"></div>
+    <div xpath="/item/meta/text()[1]">
+    </div>
+    <div translate="no" class="web-xml-tag-title">Description</div>
+    <div class="web-xml-content">
+      <div translate="no" class="web-xml-tag-title"></div>
+      <div xpath="/item/meta/description/text()">Super page describes our service (description)</div>
+    </div>
+    <div translate="no" class="web-xml-tag-title"></div>
+    <div xpath="/item/meta/text()[2]">
+    </div>
+    <div translate="no" class="web-xml-tag-title">Keywords</div>
+    <div class="web-xml-content">
+      <div translate="no" class="web-xml-tag-title"></div>
+      <div xpath="/item/meta/keywords/text()">service,description (keywords)</div>
+    </div>
+    <div translate="no" class="web-xml-tag-title"></div>
+    <div xpath="/item/meta/text()[3]">
+  </div>
+  </div>
+  <div translate="no" class="web-xml-tag-title"></div>
+  <div xpath="/item/text()[3]">
+  </div>
+  <div translate="no" class="web-xml-tag-title">Content</div>
+  <div class="web-xml-content">
+    <div translate="no" class="web-xml-tag-title"></div>
+    <div xpath="/item/content/text()">
+    &lt;b&gt;This&lt;/b&gt; is HTML content.  
+</div>
+  </div>
+  <div translate="no" class="web-xml-tag-title"></div>
+  <div xpath="/item/text()[4]">
+  </div>
+  <div translate="no" class="web-xml-tag-title">Item</div>
+  <div class="web-xml-content">
+    <div translate="no" class="web-xml-tag-title"></div>
+    <div xpath="/item/item/text()[1]">
+    </div>
+    <div translate="no" class="web-xml-tag-title">Title</div>
+    <div class="web-xml-content">
+      <div translate="no" class="web-xml-tag-title"></div>
+      <div xpath="/item/item/title/text()">Super News</div>
+    </div>
+    <div translate="no" class="web-xml-tag-title"></div>
+    <div xpath="/item/item/text()[2]">
+    </div>
+    <div translate="no" class="web-xml-tag-title">Content</div>
+    <div class="web-xml-content">
+      <div translate="no" class="web-xml-tag-title"></div>
+      <div xpath="/item/item/content/text()[1]">
+        This is my conent 1.
+</div>
+      <div translate="no" class="web-xml-tag-title">Meta</div>
+      <div class="web-xml-content">
+        <div translate="no" class="web-xml-tag-title"></div>
+        <div xpath="/item/item/content/meta/text()">aaaa mega</div>
+      </div>
+      <div translate="no" class="web-xml-tag-title"></div>
+      <div xpath="/item/item/content/text()[2]">
+        This is my conent 2.
+</div>
+      <div translate="no" class="web-xml-tag-title">B</div>
+      <div class="web-xml-content">
+        <div translate="no" class="web-xml-tag-title"></div>
+        <div xpath="/item/item/content/b/text()">damn</div>
+      </div>
+      <div translate="no" class="web-xml-tag-title"></div>
+      <div xpath="/item/item/content/text()[3]">
+    </div>
+    </div>
+    <div translate="no" class="web-xml-tag-title"></div>
+    <div xpath="/item/item/text()[3]">
+    </div>
+    <div translate="no" class="web-xml-tag-title">Meta1</div>
+    <div class="web-xml-content">
+      <div translate="no" class="web-xml-tag-title"></div>
+      <div xpath="/item/item/meta1/text()[1]">
+      </div>
+      <div translate="no" class="web-xml-tag-title">Keywords</div>
+      <div class="web-xml-content">
+        <div translate="no" class="web-xml-tag-title"></div>
+        <div xpath="/item/item/meta1/keywords/text()">
+        scuko,damn,it      
+</div>
+      </div>
+      <div translate="no" class="web-xml-tag-title"></div>
+      <div xpath="/item/item/meta1/text()[2]">
+      </div>
+      <div translate="no" class="web-xml-tag-title">Description</div>
+      <div class="web-xml-content">
+        <div translate="no" class="web-xml-tag-title"></div>
+        <div xpath="/item/item/meta1/description/text()">
+        promo damn it      
+</div>
+      </div>
+      <div translate="no" class="web-xml-tag-title"></div>
+      <div xpath="/item/item/meta1/text()[3]">
+    </div>
+    </div>
+    <div translate="no" class="web-xml-tag-title"></div>
+    <div xpath="/item/item/text()[4]">
+  </div>
+  </div>
+  <div translate="no" class="web-xml-tag-title"></div>
+  <div xpath="/item/text()[5]">
+  </div>
+  <div translate="no" class="web-xml-tag-title">Super</div>
+  <div class="web-xml-content">
+    <div translate="no" class="web-xml-tag-title"></div>
+    <div xpath="/item/super/text()">aaa</div>
+  </div>
+  <div translate="no" class="web-xml-tag-title"></div>
+  <div xpath="/item/text()[6]">
+</div>
+</div>
