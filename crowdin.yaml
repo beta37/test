@@ -8,5 +8,3 @@ files:
   - 
     source: '/*.csv'
     translation: '%original_file_name%'
-    multilingual_spreadsheet: "1"
-    scheme: identifier,source_phrase,uk,es-ES
