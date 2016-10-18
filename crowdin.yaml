@@ -1,10 +1,10 @@
 files:
   - 
     source: contributors.txt
-    translation: /%language%/%original_file_name%
+    translation: '/%language%/%original_path%/%original_file_name%'
   - 
     source: README.md
     translation: '%original_file_name%'
   - 
-    source: /*.csv
+    source: '/*.csv'
     translation: '%original_file_name%'
