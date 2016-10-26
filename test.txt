@@ -1,19 +1,19 @@
-[appbox chromewebstore][appbox ][appbox firefoxmarketplace][appbox googleplay][appbox operaaddons][appbox steam][appbox windowsstore][appbox wordpress][appbox amazonapps][appbox appstore][appbox chromewebstore][appbox firefoxmarketplace][appbox firefoxmarketplace][appbox googleplay][appbox operaaddons]
+[appbox chromewebstore ][appbox ][appbox firefoxmarketplace ][appbox googleplay ][appbox operaaddons ][appbox steam ][appbox windowsstore ][appbox wordpress ][appbox amazonapps ][appbox appstore ][appbox chromewebstore ][appbox firefoxmarketplace ][appbox firefoxmarketplace ][appbox googleplay ][appbox operaaddons ]
 
-[appbox wordpress][accordion openfirst="true" openall="true" clicktoclose="true" scroll="true" tag="h4"][accordion-item title="test title" id="qretyu" state="open"][bs_button size="lg" type="primary" value="adfghjk" href="#test"]
-
- 
+[appbox wordpress ][accordion openfirst=true openall=true clicktoclose=true scroll=true tag=h4][/accordion][accordion-item title="test title" id=qretyu state=open][/accordion-item][bs_button size="lg" type="primary" value="adfghjk" href="#test"]
 
  
 
-[bs_notification type="warning" dismissible="true"]Your content here.[/bs_notification][bs_well size="lg"]This well needs your attention.[/bs_well][bs_tabs ]
-[bs_thead ]
+ 
+
+[bs_notification type="warning" dismissible="true"]Your content here.[/bs_notification][bs_well size="lg"]This well needs your attention.[/bs_well][bs_tabs]
+[bs_thead]
 [bs_tab class="active" type="tab" href="#bs_dropdown227" title="@mdo"]
 [bs_tab class="" type="tab" href="#bs_dropdown127" title="@fat"]
 [bs_dropdown id="bs_dropdown27" title="Dropdown "]
 [bs_tab type="tab" href="#bs_first_tab27" title="Tab title"]
 [/bs_dropdown]
-[/bs_thead][bs_tcontents ]
+[/bs_thead][bs_tcontents]
 [bs_tcontent class="active" id="bs_first_tab27"]Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica. Reprehenderit butcher retro keffiyeh dreamcatcher synth. Cosby sweater eu banh mi, qui irure terry richardson ex squid. Aliquip placeat salvia cillum iphone. Seitan aliquip quis cardigan american apparel, butcher voluptate nisi qui.[/bs_tcontent]
 [bs_tcontent class="" id="bs_dropdown127"]Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica. Reprehenderit butcher retro keffiyeh dreamcatcher synth. Cosby sweater eu banh mi, qui irure terry richardson ex squid. Aliquip placeat salvia cillum iphone.[/bs_tcontent]
 [bs_tcontent class="" id="bs_dropdown227"]Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica.[/bs_tcontent]
@@ -33,11 +33,11 @@ Collapse content goes here....
 [bs_col class="col-sm-2"]Text[/bs_col]
 [bs_col class="col-sm-2"]Text[/bs_col]
 [bs_col class="col-sm-2"]Text[/bs_col]
-[bs_col class="col-sm-2"][bs_lead ]This is a lead text and needs your attention.[/bs_lead][/bs_col]
+[bs_col class="col-sm-2"][bs_lead]This is a lead text and needs your attention.[/bs_lead][/bs_col]
 [bs_col class="col-sm-2"]Text[/bs_col]
 [/bs_row]
 
-[appbox firefoxmarketplace][appbox googleplay][appbox operaaddons]
+[appbox firefoxmarketplace ][appbox googleplay ][appbox operaaddons ]
 
 test
 
