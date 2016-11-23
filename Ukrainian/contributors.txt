@@ -1,5 +1,5 @@
 Simple name: Mikolay Korniat
 
-Цей файл редагується!
+This file is edited!
 
 I updated the code!
